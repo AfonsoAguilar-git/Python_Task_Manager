@@ -18,7 +18,6 @@ Created with Python and PyQt5.
 ```
 pip install PyQt5
 ```
-
 3. Run the application
 ```
 python main.py
