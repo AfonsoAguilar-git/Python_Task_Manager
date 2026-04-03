@@ -5,10 +5,10 @@ A simple PyQt5 project designed to store your tasks locally.
 Created with Python and PyQt5.
 
 ## Features
--User Accounts: Basic login and signup system.
--Task Lists: Create tasks and group them into different lists.
--Status & Categories: Mark tasks as pending or completed, and organize them by category.
--Local Storage: Everything is saved locally in simple .txt files (no database required).
+- User Accounts: Basic login and signup system;
+- Task Lists: Create tasks and group them into different lists;
+- Status & Categories: Mark tasks as pending or completed, and organize them by category;
+- Local Storage: Everything is saved locally in simple .txt files (no database required).
 
 ## How to run locally
 
